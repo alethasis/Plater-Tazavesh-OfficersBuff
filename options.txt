@@ -1,0 +1,4 @@
+Name: Color
+Key: healthBarColor
+
+Color hex: ff00ff
